@@ -1,0 +1,649 @@
+# Mapa Coletado do Site IFSP Avaré
+
+- Fonte inicial: https://avr.ifsp.edu.br/
+- Total de páginas HTML coletadas: 220
+- Data da coleta: 2026-05-24
+
+## Páginas
+
+- [IFSP - Campus Avaré](https://avr.ifsp.edu.br/)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Acessibilidade](https://avr.ifsp.edu.br/acessibilidade)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [IFSP - Campus Avaré](https://avr.ifsp.edu.br/fale-conosco)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Fale Conosco](https://avr.ifsp.edu.br/fale-conosco-contato)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Moodle - IFSP Campus Avaré](http://avr.ifsp.edu.br/moodle/login/)
+  - Tópicos: Perfect Learning System, Lorem Ipsum is simply dummy text of the printing and typesetting industry., Acesso à plataforma, We host, your MOODLE
+  - Telefones: (14) 3731-0300
+- [Guia do Estudante](https://avr.ifsp.edu.br/area-do-estudante)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Horários de Aulas](https://avr.ifsp.edu.br/horarios-de-aulas)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [https://avr.ifsp.edu.br/restaurante-superior](https://avr.ifsp.edu.br/restaurante-superior)
+- [Calendário Acadêmico](https://avr.ifsp.edu.br/calendario-academico)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 2021 2022
+- [Estágios](https://avr.ifsp.edu.br/estagios)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [WIFI Alunos](https://avr.ifsp.edu.br/wifi-alunos)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Projetos desenvolvidos](https://avr.ifsp.edu.br/projetos-desenvolvidos)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Horário de Atendimento - DAE e Coord de curso](https://avr.ifsp.edu.br/horario-setores-ensino)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Horários de atendimento ao aluno](https://avr.ifsp.edu.br/horarios-de-atendimento-ao-aluno)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Sobre o IFSP](https://avr.ifsp.edu.br/sobre-o-ifsp)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Relatório Individual de Trabalho Docente (RIT)](https://avr.ifsp.edu.br/relatorio-individual-de-trabalho-docente-rit)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Plano Individual de Trabalho Docente (PIT)](https://avr.ifsp.edu.br/plano-individual-de-trabalho-docente-pit)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Arinter](https://avr.ifsp.edu.br/arinter)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [PartiuIF 2026](https://avr.ifsp.edu.br/partiuif-2026)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Campus Avaré](https://avr.ifsp.edu.br/campus-avare)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Organograma e Setores](https://avr.ifsp.edu.br/organograma)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Ações do Campus Avaré](https://avr.ifsp.edu.br/acoes-do-campus-avare)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Boletim Informativo](https://avr.ifsp.edu.br/boletim-informativo)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 2019 2022, 2023 2024, 2025 2026
+- [Boletim de Serviços](https://avr.ifsp.edu.br/boletim)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [CONCAM](https://avr.ifsp.edu.br/concam)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 0003 2023, 0004 2023, 0005 2023, 0006 2023, 11 2019 2021, 11 2023 2024, 11 2025 2026, 12 2022 2023, 2015 2016, 2016 2017, 2017 2018, 2018 2019, 2021 2022, 2023 2023, 2023 2027, 2024 2024, 2024 2025, 2024 2028, 2025 2025
+- [Coronavírus (Sars-Cov-2)](https://avr.ifsp.edu.br/coronavirus)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 06419975775, 10330250803, 24463064906, 32319498626, 49783226725, 79684531370
+- [Processo Seletivo](https://avr.ifsp.edu.br/processos-seletivos)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Documentos Institucionais](https://avr.ifsp.edu.br/documentos-institucionais)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 2015-2019, 2019-2013, 2020-2024, 2023-2027
+- [Trabalhe Conosco](https://avr.ifsp.edu.br/trabalhe-conosco)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [CPA](https://avr.ifsp.edu.br/cpa)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Vigilância](https://avr.ifsp.edu.br/vigilancia)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Comissão PDI](https://avr.ifsp.edu.br/comissao-pdi)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 2019-2013
+- [Formulário de acompanhamento](https://avr.ifsp.edu.br/acompanhamento-do-egresso-dos-cursos-superiores)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Institucional](https://avr.ifsp.edu.br/institucional-acesso-informacao)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Ações e Programas](https://avr.ifsp.edu.br/acoeseprogramas)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Participação Social](https://avr.ifsp.edu.br/participacao-social)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Auditorias](https://avr.ifsp.edu.br/auditorias)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (11) 3775-4515, (14) 3514-0094
+- [Convênios e Transferências](https://avr.ifsp.edu.br/convenios-e-transferencias)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Receitas e Despesas](https://avr.ifsp.edu.br/receitas-e-despesas)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Licitações e Contratos](https://avr.ifsp.edu.br/licitacoes-e-contratos2)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Servidores](https://avr.ifsp.edu.br/servidores2)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Informações Classificadas](https://avr.ifsp.edu.br/informacoesclassificadas)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 2012-2022
+- [Serviço de Informação ao Cidadão (SIC)](https://avr.ifsp.edu.br/sic)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Perguntas Frequentes](https://avr.ifsp.edu.br/perguntas)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Dados Abertos](https://avr.ifsp.edu.br/dados)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 2017-2019, 2021-2022, 2023-2024
+- [Transparência e Prestação de Contas](https://avr.ifsp.edu.br/transparencia)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Extensão](https://avr.ifsp.edu.br/extensao)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 14 3731-0314, 2011 2012, 2013 2014, 2015 2016, 2017 2018, 2019-2023
+- [Registros Acadêmicos](https://avr.ifsp.edu.br/registros-escolares)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [NAPNE](https://avr.ifsp.edu.br/napne-avr)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Pesquisa e Inovação](https://avr.ifsp.edu.br/pesquisa)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 2018-2019, 88004589336
+- [Superiores](https://avr.ifsp.edu.br/superiores)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Técnicos Concomitantes](https://avr.ifsp.edu.br/tecnicos-concomitantes)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Técnicos Integrados](https://avr.ifsp.edu.br/tecnicos-integrados)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Proeja FIC - Auxiliar em hospedagem](https://avr.ifsp.edu.br/proeja-fic-hospitalidade-e-lazer)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Comissões - informações gerais](https://avr.ifsp.edu.br/composicao-das-comissoes)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [NUGS](https://avr.ifsp.edu.br/nugs)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Anuário do IFSP - Campus Avaré](https://avr.ifsp.edu.br/anuario)
+  - Tópicos: Anuário do IFSP - Campus Avaré, Sobre a Revista, Edição Atual, Artigos
+- [SGCE - Sistema de Gestão de Certificados Eletrônicos](http://avr.ifsp.edu.br/certificados/listaPublica)
+  - Tópicos: Busca de Certificados
+- [http://avr.ifsp.edu.br/frequencia](http://avr.ifsp.edu.br/frequencia)
+- [Fale Conosco](https://avr.ifsp.edu.br/component/banners/click/477)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Seleção de bolsistas discentes para projetos de extensão - pró-reitoria de extensão - 2026 - Campus Avaré](https://avr.ifsp.edu.br/ultimas-noticias/1851-selecao-de-bolsistas-discentes-para-projetos-de-extensao-pro-reitoria-de-extensao-2026-campus-avare)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Resultado da seleção de bolsistas discentes para os projetos de extensão - 2026 -Campus Avaré](https://avr.ifsp.edu.br/ultimas-noticias/1850-resultado-da-selecao-de-bolsistas-discentes-para-os-projetos-de-extensao-2026-campus-avare)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Novo! Classificação - Entrevista dos Projetos de Bolsa de Ensino Cadastro Reserva - EDITAL Nº 46/2026](https://avr.ifsp.edu.br/ultimas-noticias/1846-cadastro-reserva-outras-entrevistas-para-projetos-de-bolsa-de-ensino-edital-n-46-2026-drg-avr-ifsp-de-29-de-abril-de-2026)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Resultado Final Edital Plataforma Altissia](https://avr.ifsp.edu.br/ultimas-noticias/1849-resultado-preliminar-edital-plataforma-altissia)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Segundo edital de abertura do programa auxílio permanência (PAP) 2026 para alunos do Ensino Superior](https://avr.ifsp.edu.br/ultimas-noticias/1848-segundo-edital-de-abertura-do-programa-auxilio-permanencia-pap-2026-para-alunos-do-ensino-superior)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Inscrições abertas para a seleção de bolsistas discentes para os projetos de extensão - 2026 - campus Avaré](https://avr.ifsp.edu.br/ultimas-noticias/1847-inscricoes-abertas-para-a-selecao-de-bolsistas-discentes-para-os-projetos-de-extensao-2026-campus-avare)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Resultado final do Edital Nº 29.2026 - Seleção de projetos de extensão](https://avr.ifsp.edu.br/ultimas-noticias/1845-resultado-final-do-edital-n-29-2026-selecao-de-projetos-de-extensao)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Resultado Final - Edital 43/2026 DRG/AVR/IFSP](https://avr.ifsp.edu.br/ultimas-noticias/1844-resultado-final-edital-43-2026-drg-avr-ifsp)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Últimas Notícias](https://avr.ifsp.edu.br/ultimas-noticias)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Edital 24/2026 - Professor Substituto](https://avr.ifsp.edu.br/processos-seletivos/1815-edital-24-2026-professor-substituto)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Edital 99/2025 - Professor substituto](https://avr.ifsp.edu.br/processos-seletivos/1739-edital-99-2025-professor-substituto)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Edital 46/2025 - Professor Substituto](https://avr.ifsp.edu.br/processos-seletivos/1623-edital-46-2025-professor-substituto)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Edital 95/2024 - Professor Substituto](https://avr.ifsp.edu.br/processos-seletivos/1496-edital-95-2024-professor-substituto)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Edital 67/2024 - Professor Substituto](https://avr.ifsp.edu.br/processos-seletivos/1466-edital-67-2024)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Edital 39/2024 - Professor substituto](https://avr.ifsp.edu.br/processos-seletivos/1401-edital-39-2024-professor-substituto)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Edital 3.2025 - Afastamento remunerado - TAE](https://avr.ifsp.edu.br/editais-de-afastamento-tae/1712-edital-3-2025)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Editais de Afastamento - TAE](https://avr.ifsp.edu.br/editais-de-afastamento-tae)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Horários de Atendimento](https://avr.ifsp.edu.br/fale-conosco-contato/71-institucional/998-horarios-de-atendimento)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Direção-Geral](https://avr.ifsp.edu.br/fale-conosco-contato/2-ifspavare/317-direcao-geral)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Apoio à Direção](https://avr.ifsp.edu.br/fale-conosco-contato/68-coordenadorias/318-cdi)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Coordenadoria de Tecnologia da Informação](https://avr.ifsp.edu.br/fale-conosco-contato/68-coordenadorias/103-cti-coordenadoria-de-tecnologia-da-informacao)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Diretoria-Adj. de Administração](https://avr.ifsp.edu.br/fale-conosco-contato/68-coordenadorias/282-dir-adj-de-administracao)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Contabilidade e Finanças](https://avr.ifsp.edu.br/fale-conosco-contato/68-coordenadorias/283-coord-de-contabilidade-e-financas)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Almoxarifado, Patrimônio e Manutenção](https://avr.ifsp.edu.br/fale-conosco-contato/68-coordenadorias/115-almoxarifado-e-patrimonio)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Gestão de Pessoas](https://avr.ifsp.edu.br/fale-conosco-contato/68-coordenadorias/101-gestao-de-pessoas)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Diretoria-adjunta educacional](https://avr.ifsp.edu.br/fale-conosco-contato/2-ifspavare/319-diretoria-adjunta-educacional)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Apoio ao Ensino](https://avr.ifsp.edu.br/fale-conosco-contato/68-coordenadorias/108-coordenadoria-de-apoio-ao-ensino)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Biblioteca](https://avr.ifsp.edu.br/fale-conosco-contato/68-coordenadorias/113-biblioteca)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Sociopedagógico](https://avr.ifsp.edu.br/fale-conosco-contato/2-ifspavare/109-sociopedagogico)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Núcleo de Apoio às Pessoas com Necessidades Educacionais Específicas (Napne) (2)](https://avr.ifsp.edu.br/fale-conosco-contato/71-institucional/1539-napne-2)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Técnico em Agroindústria](https://avr.ifsp.edu.br/tecnicos-integrados/94-tecnico-em-agroindustria)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Técnico em Lazer](https://avr.ifsp.edu.br/tecnicos-integrados/93-tecnico-em-lazer)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Técnico em Mecatrônica](https://avr.ifsp.edu.br/tecnicos-integrados/92-tecnico-em-mecatonica)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Técnico em Eventos - EXTINTO](https://avr.ifsp.edu.br/tecnicos-concomitantes/96-tecnico-em-eventos)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Técnico em Mecânica](https://avr.ifsp.edu.br/tecnicos-concomitantes/95-tecnico-em-mecanica)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Engenharia de Biossistemas](https://avr.ifsp.edu.br/superiores/127-engenharia-de-biossistemas-2)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 2019-2020, 2022-2026
+- [Licenciatura em Ciências Biológicas](https://avr.ifsp.edu.br/superiores/87-lic-em-ciencias-biologicas)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Licenciatura em Letras - Português e Espanhol](https://avr.ifsp.edu.br/superiores/91-licenciatura-em-letras)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 10254864779, 2718072063
+- [Tecnologia em Gestão do Agronegócio](https://avr.ifsp.edu.br/superiores/82-tecnologia-em-agronegocio)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Tecnologia em Gastronomia](https://avr.ifsp.edu.br/superiores/145-tecnologia-em-gastronomia)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 2019-2020, 2021-2022, 2023-2024, 2025-2026
+- [Moodle - IFSP Campus Avaré](https://avr.ifsp.edu.br/moodle)
+  - Tópicos: Perfect Learning System, Lorem Ipsum is simply dummy text of the printing and typesetting industry., Acesso à plataforma, We host, your MOODLE
+  - Telefones: (14) 3731-0300
+- [Moodle - IFSP Campus Avaré](https://avr.ifsp.edu.br/moodle/?lang=en)
+  - Tópicos: Perfect Learning System, Lorem Ipsum is simply dummy text of the printing and typesetting industry., Access to the platform, We host, your MOODLE
+  - Telefones: (14) 3731-0300
+- [Moodle - IFSP Campus Avaré](https://avr.ifsp.edu.br/moodle/?lang=pt_br_old)
+  - Tópicos: Perfect Learning System, Lorem Ipsum is simply dummy text of the printing and typesetting industry., Acesso à plataforma, We host, your MOODLE
+  - Telefones: (14) 3731-0300
+- [Moodle - IFSP Campus Avaré](https://avr.ifsp.edu.br/moodle/?lang=pt_br)
+  - Tópicos: Perfect Learning System, Lorem Ipsum is simply dummy text of the printing and typesetting industry., Acesso à plataforma, We host, your MOODLE
+  - Telefones: (14) 3731-0300
+- [Moodle - IFSP Campus Avaré: Acesso ao site](https://avr.ifsp.edu.br/moodle/login/index.php)
+  - Tópicos: Moodle - IFSP Campus Avaré, Autenticar usando sua conta em:
+- [Senha esquecida](https://avr.ifsp.edu.br/moodle/login/forgot_password.php)
+  - Tópicos: Moodle - IFSP Campus Avaré, Manter contato
+  - Telefones: (14) 3731-0300
+- [IFSP - Campus Avaré](http://avr.ifsp.edu.br)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Resumo da configuração do registro](https://avr.ifsp.edu.br/moodle/admin/tool/dataprivacy/summary.php)
+  - Tópicos: Moodle - IFSP Campus Avaré, Resumo de retenção de dados, Site, Usuários, Categorias de curso
+  - Telefones: (14) 3731-0300
+- [Engenharia de Biossistemas](https://avr.ifsp.edu.br/horarios-de-aulas/73-horarios-aulas/1249-engenharia-biossistemas)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Integrado em Agroindustria](https://avr.ifsp.edu.br/horarios-de-aulas/73-horarios-aulas/1243-integrado-agroindustria)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Técnico em Mecânica](https://avr.ifsp.edu.br/horarios-de-aulas/73-horarios-aulas/1311-tecnico-em-mecanica)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Licenciatura em Ciências Biológicas](https://avr.ifsp.edu.br/horarios-de-aulas/73-horarios-aulas/1248-licenciatura-biologia)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Licenciatura em Letras - Português e Espanhol](https://avr.ifsp.edu.br/horarios-de-aulas/73-horarios-aulas/1250-licenciatura-letras)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Integrado em Lazer](https://avr.ifsp.edu.br/horarios-de-aulas/73-horarios-aulas/1245-integrado-lazer)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Tecnologia em Gestão do Agronegócio](https://avr.ifsp.edu.br/horarios-de-aulas/73-horarios-aulas/1247-tecnologia-agronegocio)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Tecnologia em Gastronomia](https://avr.ifsp.edu.br/horarios-de-aulas/73-horarios-aulas/1251-tecnologia-gastronomia)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Integrado em Mecatrônica](https://avr.ifsp.edu.br/horarios-de-aulas/73-horarios-aulas/1246-integrado-mecatronica)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Horários de Aulas](https://avr.ifsp.edu.br/horarios-de-aulas/73-horarios-aulas)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [IFSP Avaré](https://avr.ifsp.edu.br/restaurante-superior/recarga)
+  - Tópicos: Nova Recarga
+- [IFSP Avaré](https://avr.ifsp.edu.br/restaurante-superior/saldo)
+  - Tópicos: Consultar Saldo
+- [IFSP Avaré](https://avr.ifsp.edu.br/restaurante-superior/inscricao)
+  - Tópicos: Inscrição para Refeições, Selecione os dias e refeições
+- [Licenciatura em Ciências Biológicas](https://avr.ifsp.edu.br/index.php/superiores/87-lic-em-ciencias-biologicas)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Licenciatura em Letras - Português e Espanhol](https://avr.ifsp.edu.br/index.php/superiores/91-licenciatura-em-letras)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 10254864779, 2718072063
+- [https://avr.ifsp.edu.br/wifialunos](https://avr.ifsp.edu.br/wifialunos)
+- [Projetos desenvolvidos](https://avr.ifsp.edu.br/projetos-desenvolvidos/57-ensino)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Relatório Individual de Trabalho Docente (RIT)](https://avr.ifsp.edu.br/relatorio-individual-de-trabalho-docente-rit/71-institucional)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 14 35140094
+- [Plano Individual de Trabalho Docente (PIT)](https://avr.ifsp.edu.br/plano-individual-de-trabalho-docente-pit/71-institucional)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 14 35140094
+- [IFSP abre inscrições para programa de mobilidade internacional na Argentina](https://avr.ifsp.edu.br/ultimas-noticias/1826-ifsp-abre-inscricoes-para-programa-de-mobilidade-internacional-na-argentina)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Plataforma Altissia: IFSP oferta cursos de idiomas gratuitos para estudantes e servidores](https://avr.ifsp.edu.br/ultimas-noticias/1834-plataforma-altissia-ifsp-oferta-cursos-de-idiomas-gratuitos-para-estudantes-e-servidores)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Sorteio vagas partiuIF 2026](https://avr.ifsp.edu.br/ultimas-noticias/1814-sorteio-vagas-partiuif-2026)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Direção-Geral](https://avr.ifsp.edu.br/organograma/2-ifspavare/317-direcao-geral)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Apoio à Direção](https://avr.ifsp.edu.br/organograma/68-coordenadorias/318-cdi)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Coordenadoria de Tecnologia da Informação](https://avr.ifsp.edu.br/organograma/68-coordenadorias/103-cti-coordenadoria-de-tecnologia-da-informacao)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Diretoria-Adj. de Administração](https://avr.ifsp.edu.br/organograma/68-coordenadorias/282-dir-adj-de-administracao)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Contabilidade e Finanças](https://avr.ifsp.edu.br/organograma/68-coordenadorias/283-coord-de-contabilidade-e-financas)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Almoxarifado, Patrimônio e Manutenção](https://avr.ifsp.edu.br/organograma/68-coordenadorias/115-almoxarifado-e-patrimonio)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Gestão de Pessoas](https://avr.ifsp.edu.br/organograma/68-coordenadorias/101-gestao-de-pessoas)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Diretoria-adjunta educacional](https://avr.ifsp.edu.br/organograma/2-ifspavare/319-diretoria-adjunta-educacional)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Apoio ao Ensino](https://avr.ifsp.edu.br/organograma/68-coordenadorias/108-coordenadoria-de-apoio-ao-ensino)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Biblioteca](https://avr.ifsp.edu.br/organograma/68-coordenadorias/113-biblioteca)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Sociopedagógico](https://avr.ifsp.edu.br/organograma/2-ifspavare/109-sociopedagogico)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Núcleo de Apoio às Pessoas com Necessidades Educacionais Específicas (Napne) (2)](https://avr.ifsp.edu.br/organograma/71-institucional/1539-napne-2)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Ações do Campus Avaré](https://avr.ifsp.edu.br/acoes-do-campus-avare/71-institucional)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 14 35140094
+- [Boletins 2016](https://avr.ifsp.edu.br/boletim/2-ifspavare/130-boletins-2016)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Boletins 2017](https://avr.ifsp.edu.br/boletim/2-ifspavare/85-boletins-2017)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Boletins 2018](https://avr.ifsp.edu.br/boletim/2-ifspavare/160-boletins-2018)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Boletins 2019](https://avr.ifsp.edu.br/boletim/2-ifspavare/356-boletins-2019)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Boletins 2020](https://avr.ifsp.edu.br/boletim/2-ifspavare/692-boletins-2020)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Boletins 2021](https://avr.ifsp.edu.br/boletim/2-ifspavare/729-boletins-2021)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Boletins 2022](https://avr.ifsp.edu.br/boletim/2-ifspavare/905-boletins-2022)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Boletins 2023](https://avr.ifsp.edu.br/boletim/2-ifspavare/1095-boletins-2023-1)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Boletins 2024](https://avr.ifsp.edu.br/boletim/2-ifspavare/1310-boletins-2023-2)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Boletins 2025](https://avr.ifsp.edu.br/boletim/2-ifspavare/1534-boletins-2025)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Boletins 2026](https://avr.ifsp.edu.br/boletim/2-ifspavare/1783-boletins-2026)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [IFSP - Campus Avaré](https://avr.ifsp.edu.br/images/pdf/Comissoes_Outros/Concam/CONCAM%20-%20atualiza%C3%A7%C3%A3o%20do%20site%20PARTE%20III%202017/ATA%20DA%2016%C2%BA%20REUNI%C3%83O%20EM%2022%2008%202017.pdf)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [IFSP - Campus Avaré](https://avr.ifsp.edu.br/images/pdf/Comissoes_Outros/Concam/CONCAM%20-%20atualiza%C3%A7%C3%A3o%20do%20site%20PARTE%20III%202017/18%C2%AA%20REUNI%C3%83O%20-%20ATA%2031%2010%202017.pdf)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [IFSP - Campus Avaré](https://avr.ifsp.edu.br/images/pdf/Comissoes_Outros/Concam/CONCAM%20-%20atualiza%C3%A7%C3%A3o%20do%20site%20PARTE%20III%202017/19%C2%AA%20REUNI%C3%83O%20-%20ATA%2028%2011%202017.pdf)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Edital 06/2024 - Professor Substituto](https://avr.ifsp.edu.br/processos-seletivos/1306-edital-588-2023-professor-substituto)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Edital 588/2023 - Professor Substituto](https://avr.ifsp.edu.br/processos-seletivos/1281-edital-588-2023)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Edital 299/2023 - Professor Substituto](https://avr.ifsp.edu.br/processos-seletivos/1196-edital-299-2023)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Edital 123/2023 - Processo Seletivo de Professor Substituto](https://avr.ifsp.edu.br/processos-seletivos/1103-edital-123-2023-processo-seletivo-de-professor-substituto)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Processo Seletivo](https://avr.ifsp.edu.br/processos-seletivos?start=10)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [IFSP - Campus Avaré](https://avr.ifsp.edu.br/images/pdf/documentosinstitucionais/pdi_2024_2028/Estrutura-de-Entrega.pdf)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Portarias 2026](https://avr.ifsp.edu.br/documentos-institucionais/2-ifspavare/1768-portarias-2026)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Portarias 2025](https://avr.ifsp.edu.br/documentos-institucionais/2-ifspavare/1519-portarias-2025)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 2024 2029
+- [Portarias 2024](https://avr.ifsp.edu.br/documentos-institucionais/2-ifspavare/1303-portarias-2024)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 0082 2020, 2024-2026
+- [Portarias 2023](https://avr.ifsp.edu.br/documentos-institucionais/2-ifspavare/1094-portarias-2023)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 0002 2023, 0004 2023
+- [Portarias 2022](https://avr.ifsp.edu.br/documentos-institucionais/2-ifspavare/890-portarias-2022)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 2024 2028
+- [Portarias 2021](https://avr.ifsp.edu.br/documentos-institucionais/2-ifspavare/794-portarias-2021)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Portarias 2020](https://avr.ifsp.edu.br/documentos-institucionais/2-ifspavare/931-portarias-2020)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Portarias 2019](https://avr.ifsp.edu.br/documentos-institucionais/2-ifspavare/930-portarias-2019)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 00102015, 00112018, 00132015, 00172015, 00332018, 00372018, 00482017
+- [Portarias 2018](https://avr.ifsp.edu.br/documentos-institucionais/2-ifspavare/929-portarias-2018)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 2015 2019
+- [Portarias 2017](https://avr.ifsp.edu.br/documentos-institucionais/2-ifspavare/928-portarias-2017)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Portarias 2016](https://avr.ifsp.edu.br/documentos-institucionais/2-ifspavare/927-portarias-2016)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 00152015, 00382015, 0040 2015, 0047 2015, 0061 2015
+- [Portarias 2015](https://avr.ifsp.edu.br/documentos-institucionais/2-ifspavare/926-portarias-2015)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 00212015, 0037 2014
+- [Chamadas Públicas](https://avr.ifsp.edu.br/documentos-institucionais/74-editais/1583-chamadas-publicas)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Extensão](https://avr.ifsp.edu.br/documentos-institucionais/74-editais/1393-extensao)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Gestão de pessoas](https://avr.ifsp.edu.br/documentos-institucionais/74-editais/1394-gestao-de-pessoas)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Pesquisa e inovação](https://avr.ifsp.edu.br/documentos-institucionais/74-editais/1395-pesquisa-e-inovacao)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Registros acadêmicos](https://avr.ifsp.edu.br/documentos-institucionais/74-editais/1396-registros-academicos)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Sociopedagógico](https://avr.ifsp.edu.br/documentos-institucionais/74-editais/1397-sociopedagogico)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Diretoria adjunta educacional](https://avr.ifsp.edu.br/documentos-institucionais/74-editais/1398-diretoria-adjunta-educacional)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Seleção de Professor Substituto](https://avr.ifsp.edu.br/trabalhe-conosco/2-ifspavare/1143-selecao-de-professor-substituto)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Estágios](https://avr.ifsp.edu.br/trabalhe-conosco/2-ifspavare/1254-processo-seletivo-estagios)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Temporários](https://avr.ifsp.edu.br/trabalhe-conosco/2-ifspavare/1255-temporarios)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Trabalhe Conosco](https://avr.ifsp.edu.br/trabalhe-conosco/71-institucional)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 14 35140094
+- [IFSP - Campus Avaré](https://avr.ifsp.edu.br/images/pdf/Portarias/2023/07/PORTARIA-AVR-IFSP-N.-0067-DE-19-DE-JULHO-DE-2023--Altera-CPA.pdf)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [CPA](https://avr.ifsp.edu.br/cpa/61-comissoes-e-outros)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [IFSP - Campus Avaré](https://avr.ifsp.edu.br/dir-adj-de-administracao)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Patrimônio](https://avr.ifsp.edu.br/perguntas/2-ifspavare/117-patrimonio)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [IFSP - Campus Avaré](https://avr.ifsp.edu.br/index.php/institucional)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Convênios e Transferências](https://avr.ifsp.edu.br/index.php/convenios-e-transferencias)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [IFSP - Campus Avaré](https://avr.ifsp.edu.br/index.php/licitacoes-e-contratos)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [IFSP - Campus Avaré](https://avr.ifsp.edu.br/index.php/servidores)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [IFSP - Campus Avaré](https://avr.ifsp.edu.br/index.php/servico-de-informacao-ao-cidadao-sic)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Extensão](https://avr.ifsp.edu.br/extensao/68-coordenadorias)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Registros Acadêmicos](https://avr.ifsp.edu.br/registros-escolares/68-coordenadorias)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [NAPNE](https://avr.ifsp.edu.br/napne-avr/71-institucional)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094, 14 35140094
+- [Pesquisadores](https://avr.ifsp.edu.br/pesquisa/75-categoria-pesquisadores/1654-pesquisadores)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Pesquisa e Inovação](https://avr.ifsp.edu.br/pesquisa/68-coordenadorias)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Superiores](https://avr.ifsp.edu.br/superiores/69-curso-tecnico-em-agronegocio)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Comissões - informações gerais](https://avr.ifsp.edu.br/composicao-das-comissoes/61-comissoes-e-outros)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [Anuário do IFSP - Campus Avaré](https://avr.ifsp.edu.br/anuario/index.php/ifspavr/index)
+  - Tópicos: Anuário do IFSP - Campus Avaré, Sobre a Revista, Edição Atual, Artigos
+- [v. 3 (2025): Assuntos gerais - IFSP - 2025 | Anuário do IFSP - Campus Avaré](https://avr.ifsp.edu.br/anuario/index.php/ifspavr/issue/current)
+  - Tópicos: v. 3 (2025): Assuntos gerais - IFSP - 2025, Artigos
+- [Edições anteriores | Anuário do IFSP - Campus Avaré](https://avr.ifsp.edu.br/anuario/index.php/ifspavr/issue/archive)
+  - Tópicos: Edições anteriores
+- [Sobre a Revista | Anuário do IFSP - Campus Avaré](https://avr.ifsp.edu.br/anuario/index.php/ifspavr/about)
+  - Tópicos: Sobre a Revista
+- [Submissões | Anuário do IFSP - Campus Avaré](https://avr.ifsp.edu.br/anuario/index.php/ifspavr/about/submissions)
+  - Tópicos: Submissões, Artigos, Política de Privacidade
+- [Equipe Editorial | Anuário do IFSP - Campus Avaré](https://avr.ifsp.edu.br/anuario/index.php/ifspavr/about/editorialTeam)
+  - Tópicos: Equipe Editorial
+- [Declaração de Privacidade | Anuário do IFSP - Campus Avaré](https://avr.ifsp.edu.br/anuario/index.php/ifspavr/about/privacy)
+  - Tópicos: Declaração de Privacidade
+- [Contato | Anuário do IFSP - Campus Avaré](https://avr.ifsp.edu.br/anuario/index.php/ifspavr/about/contact)
+  - Tópicos: Contato, Contato Principal, Contato para Suporte Técnico
+  - Telefones: (14) 3514-0094
+- [Buscar | Anuário do IFSP - Campus Avaré](https://avr.ifsp.edu.br/anuario/index.php/ifspavr/search)
+  - Tópicos: Buscar, Resultado da pesquisa
+  - Telefones: 2024 2025
+- [Acesso | Anuário do IFSP - Campus Avaré](https://avr.ifsp.edu.br/anuario/index.php/ifspavr/login)
+  - Tópicos: Acesso
+- [v. 3 (2025): Assuntos gerais - IFSP - 2025 | Anuário do IFSP - Campus Avaré](https://avr.ifsp.edu.br/anuario/index.php/ifspavr/issue/view/7)
+  - Tópicos: v. 3 (2025): Assuntos gerais - IFSP - 2025, Artigos
+- [Situação ocupacional, perfis e trajetórias de egressos de cursos PRONATEC formação inicial e continuada | Anuário do IFSP - Campus Avaré](https://avr.ifsp.edu.br/anuario/index.php/ifspavr/article/view/114)
+  - Tópicos: Situação ocupacional, perfis e trajetórias de egressos de cursos PRONATEC formação inicial e continuada, Autores, Palavras-chave:, Resumo, Downloads
+- [https://avr.ifsp.edu.br/anuario/index.php/ifspavr/article/view/114/133](https://avr.ifsp.edu.br/anuario/index.php/ifspavr/article/view/114/133)
+- [Estudo de caso: método de Jacobi e Gauss-Seidel implementados em linguagem C e aplicados na engenharia de biossistemas | Anuário do IFSP - Campus Avaré](https://avr.ifsp.edu.br/anuario/index.php/ifspavr/article/view/115)
+  - Tópicos: Estudo de caso: método de Jacobi e Gauss-Seidel implementados em linguagem C e aplicados na engenharia de biossistemas, Autores, Palavras-chave:, Resumo, Downloads
+- [https://avr.ifsp.edu.br/anuario/index.php/ifspavr/article/view/115/134](https://avr.ifsp.edu.br/anuario/index.php/ifspavr/article/view/115/134)
+- [Sobre Open Journal Systems | Anuário do IFSP - Campus Avaré](https://avr.ifsp.edu.br/anuario/index.php/ifspavr/about/aboutThisPublishingSystem)
+  - Tópicos: Sobre Open Journal Systems
+- [IFSP - Campus Avaré](https://avr.ifsp.edu.br/images/pdf/editais/Ensino_Superior_assinado.pdf)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+- [IFSP - Campus Avaré](https://avr.ifsp.edu.br/images/pdf/editais/Servidores_efetivos_assinado.pd)
+  - Tópicos: Opções de acessibilidade, IFSP - Campus Avaré, Buscar no portal, Redes Sociais, Serviços
+  - Telefones: (14) 3514-0094
+
+## Erros
+
+- https://avr.ifsp.edu.br/?Itemid=142: HTTP Error 404: Not Found
+- https://avr.ifsp.edu.br/?Itemid=144: HTTP Error 404: Not Found
+- https://avr.ifsp.edu.br/?Itemid=143: HTTP Error 404: Not Found
+- https://avr.ifsp.edu.br/index.php/contato: HTTP Error 404: Not Found
+- https://avr.ifsp.edu.br/moodle/auth/oauth2/login.php?id=1&wantsurl=%2F&sesskey=Ka4p39QtgT: HTTP Error 404: Not Found
+- http://avr.ifsp.edu.br/autorizacao-entrada/: timed out

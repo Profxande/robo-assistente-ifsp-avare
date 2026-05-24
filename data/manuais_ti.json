@@ -1,0 +1,45 @@
+[
+  {
+    "tema": "Manuais da TI",
+    "nome": "Página geral de manuais",
+    "descricao": "Índice de manuais e tutoriais de sistemas, infraestrutura, suporte e compras da TI do IFSP.",
+    "url": "https://ti.ifsp.edu.br/manuais-gerais",
+    "status": "publicado"
+  },
+  {
+    "tema": "E-mail institucional",
+    "nome": "Manual de e-mail",
+    "descricao": "PDF manual_mail.pdf, listado na seção E-mail dos manuais da TI.",
+    "url": "https://drive.ifsp.edu.br/s/REjP7eDSGok3ZZH",
+    "status": "publicado"
+  },
+  {
+    "tema": "E-mail institucional",
+    "nome": "Backup de e-mails",
+    "descricao": "PDF POP - Backup do Webmail-IFSP.pdf, listado na seção E-mail dos manuais da TI.",
+    "url": "https://drive.ifsp.edu.br/s/yDZIaElL0OtIuaq",
+    "status": "publicado"
+  },
+  {
+    "tema": "Drive IFSP",
+    "nome": "Manual do Drive IFSP",
+    "descricao": "PDF manual_drive.pdf, listado na seção Drive IFSP dos manuais da TI.",
+    "url": "https://drive.ifsp.edu.br/s/175b6c7c09ef7699aeadf0caf81bc6e3",
+    "status": "publicado"
+  },
+  {
+    "tema": "CAFe",
+    "nome": "Microsoft Dreamspark via CAFe",
+    "descricao": "PDF Tutorial Dreamspark.pdf, listado na seção CAFe dos manuais da TI.",
+    "url": "https://drive.ifsp.edu.br/s/2736c4addd07c6678638a34513120d4f",
+    "status": "publicado"
+  },
+  {
+    "tema": "Acesso remoto",
+    "nome": "Tutorial de acesso remoto",
+    "descricao": "PDF Tutorial Acesso Remoto.pdf, listado na seção Acesso Remoto dos manuais da TI.",
+    "url": "https://drive.ifsp.edu.br/s/6453c904305a5670137d8e2f25dd6ef8",
+    "status": "publicado"
+  }
+]
+

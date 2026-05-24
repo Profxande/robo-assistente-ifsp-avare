@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Robô Assistente IFSP Avaré</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="app">
+      <section class="assistant-panel" aria-label="Atendimento">
+        <div class="face" aria-hidden="true">
+          <div class="eyes">
+            <span></span>
+            <span></span>
+          </div>
+          <div class="mouth"></div>
+        </div>
+
+        <div class="identity">
+          <p class="label">IFSP Avaré</p>
+          <h1>Assistente da Secretaria</h1>
+        </div>
+
+        <form id="ask-form" class="ask-form">
+          <label for="question">Pergunte sobre vida acadêmica e administrativa</label>
+          <div class="input-row">
+            <input
+              id="question"
+              name="question"
+              type="text"
+              autocomplete="off"
+              placeholder="Ex.: Como pedir declaração de matrícula?"
+            >
+            <button type="submit">Perguntar</button>
+          </div>
+        </form>
+
+        <div class="quick-questions" aria-label="Perguntas rápidas">
+          <button type="button" data-question="Qual é o telefone do campus?">Telefone</button>
+          <button type="button" data-question="Qual o email da secretaria?">Secretaria</button>
+          <button type="button" data-question="Como pedir declaração de matrícula?">Declaração</button>
+          <button type="button" data-question="Como acessar o Wi-Fi dos alunos?">Wi-Fi</button>
+          <button type="button" data-question="Onde encontro os manuais da TI?">Manuais</button>
+          <button type="button" data-question="Quem coordena Mecatrônica?">Coordenação</button>
+        </div>
+      </section>
+
+      <section class="answer-panel" aria-live="polite">
+        <div class="answer-header">
+          <p class="label">Resposta</p>
+          <span id="status" class="status">aguardando</span>
+        </div>
+        <div id="answer" class="answer">
+          Faça uma pergunta ou escolha uma opção rápida.
+        </div>
+        <dl class="meta">
+          <div>
+            <dt>Tema</dt>
+            <dd id="topic">-</dd>
+          </div>
+          <div>
+            <dt>Setor</dt>
+            <dd id="sector">-</dd>
+          </div>
+          <div>
+            <dt>Fonte</dt>
+            <dd id="source">-</dd>
+          </div>
+        </dl>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,419 @@
+[
+  {
+    "id": "campus-contato-geral",
+    "tema": "contato geral",
+    "perguntas_exemplo": [
+      "Qual o telefone do campus?",
+      "Qual o endereço do IFSP Avaré?",
+      "Onde fica o IFSP Avaré?"
+    ],
+    "resposta": "O IFSP Campus Avaré fica na Av. Professor Celso Ferreira da Silva, 1333, Jardim Europa, CEP 18707-150, Avaré - SP. O telefone geral do campus é (14) 3514-0094.",
+    "palavras_chave": ["telefone", "endereco", "endereço", "campus", "ifsp", "avare", "avaré", "localizacao", "localização"],
+    "setor_responsavel": "Direção-Geral / Comunicação do campus",
+    "fonte": "https://avr.ifsp.edu.br/",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "campus-redes-sociais",
+    "tema": "canais oficiais",
+    "perguntas_exemplo": [
+      "Quais são as redes sociais do campus?",
+      "O IFSP Avaré tem Instagram?",
+      "Onde acompanho notícias do campus?"
+    ],
+    "resposta": "Os canais encontrados no site oficial são: Instagram https://www.instagram.com/ifspavare/, Facebook https://www.facebook.com/ifspavare e YouTube https://www.youtube.com/@ifspavare. Para notícias e editais, use também o site https://avr.ifsp.edu.br/.",
+    "palavras_chave": ["instagram", "facebook", "youtube", "redes", "sociais", "noticias", "notícias", "site"],
+    "setor_responsavel": "Comunicação do campus",
+    "fonte": "https://avr.ifsp.edu.br/",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "setores-contato",
+    "tema": "setores e contatos",
+    "perguntas_exemplo": [
+      "Onde vejo os contatos dos setores?",
+      "Qual o e-mail dos setores?",
+      "Como falar com um setor do campus?"
+    ],
+    "resposta": "A página Fale Conosco lista os setores, responsáveis e e-mails oficiais do campus. O telefone geral é (14) 3514-0094. Ao ser atendido, selecione o setor desejado: 0 Administração/Patrimônio, 2 Coordenação de Apoio ao Ensino - CAE, 4 Secretaria, 6 Biblioteca, 8 NAPNE.",
+    "palavras_chave": ["setor", "setores", "contato", "email", "e-mail", "ramal", "telefone", "fale conosco"],
+    "setor_responsavel": "Direção-Geral",
+    "fonte": "https://avr.ifsp.edu.br/fale-conosco-contato",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "secretaria-cra-contato",
+    "tema": "secretaria e registros academicos",
+    "perguntas_exemplo": [
+      "Qual o e-mail da secretaria?",
+      "Como falar com a CRA?",
+      "Qual o contato dos registros acadêmicos?"
+    ],
+    "resposta": "A Coordenadoria de Registros Acadêmicos (CRA), também ligada aos registros escolares/secretaria acadêmica, atende pelo e-mail cra.avr@ifsp.edu.br. Pelo telefone geral do campus, (14) 3514-0094, a opção informada para Secretaria é 4.",
+    "palavras_chave": ["secretaria", "cra", "registro", "registros", "academico", "acadêmico", "academicos", "acadêmicos", "email", "e-mail", "matricula", "matrícula"],
+    "setor_responsavel": "Coordenadoria de Registros Acadêmicos",
+    "fonte": "https://avr.ifsp.edu.br/fale-conosco-contato",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "secretaria-cra-atribuicoes",
+    "tema": "secretaria e registros academicos",
+    "perguntas_exemplo": [
+      "O que a CRA faz?",
+      "A secretaria emite histórico escolar?",
+      "A secretaria cuida de matrícula?"
+    ],
+    "resposta": "A Coordenadoria de Registros Acadêmicos é responsável por registros escolares do corpo discente, matrícula e rematrícula, processos e solicitações de alunos, arquivos individuais, históricos escolares, diplomas, guias de transferência, certidões e documentos semelhantes, além de atendimento a alunos, pais, professores e público em geral.",
+    "palavras_chave": ["cra", "secretaria", "historico", "histórico", "diploma", "certidao", "certidão", "transferencia", "transferência", "matricula", "matrícula", "rematricula", "rematrícula", "documentos"],
+    "setor_responsavel": "Coordenadoria de Registros Acadêmicos",
+    "fonte": "https://avr.ifsp.edu.br/registros-escolares",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "declaracao-matricula",
+    "tema": "documentos academicos",
+    "perguntas_exemplo": [
+      "Como pedir declaração de matrícula?",
+      "Preciso de uma declaração",
+      "Onde solicito comprovante de matrícula?"
+    ],
+    "resposta": "Para declaração, comprovante de matrícula, histórico escolar, certidões e documentos acadêmicos, a solicitação deve ser feita via SUAP: https://suap.ifsp.edu.br/. Em caso de dúvida, procure a Coordenadoria de Registros Acadêmicos (CRA) pelo e-mail cra.avr@ifsp.edu.br ou pela opção 4 no telefone geral (14) 3514-0094. A base ainda precisa receber o passo a passo dentro do SUAP e o prazo médio de atendimento.",
+    "palavras_chave": ["declaracao", "declaração", "matricula", "matrícula", "comprovante", "historico", "histórico", "certidao", "certidão", "documento", "cra", "secretaria"],
+    "setor_responsavel": "Coordenadoria de Registros Acadêmicos",
+    "fonte": "Informação fornecida pelo orientador do projeto; página de apoio: https://avr.ifsp.edu.br/registros-escolares",
+    "status": "rascunho",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "calendario-academico",
+    "tema": "calendario academico",
+    "perguntas_exemplo": [
+      "Onde vejo o calendário acadêmico?",
+      "Qual o calendário acadêmico vigente?",
+      "Onde estão as datas do ano letivo?"
+    ],
+    "resposta": "O calendário acadêmico do campus fica em https://avr.ifsp.edu.br/calendario-academico. A página informa o calendário de 2026 e indica como vigente a Portaria 160.2025, que altera o Calendário Acadêmico 2026.",
+    "palavras_chave": ["calendario", "calendário", "academico", "acadêmico", "ano", "letivo", "feriado", "aula", "datas", "portaria"],
+    "setor_responsavel": "Diretoria-Adjunta Educacional / CRA",
+    "fonte": "https://avr.ifsp.edu.br/calendario-academico",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "horarios-atendimento-aluno",
+    "tema": "horarios de atendimento",
+    "perguntas_exemplo": [
+      "Onde vejo horários de atendimento ao aluno?",
+      "Qual o horário dos professores?",
+      "Onde estão os horários de atendimento?"
+    ],
+    "resposta": "A página de horários de atendimento ao aluno informa que os horários estão em uma planilha Google. Acesse https://avr.ifsp.edu.br/horarios-de-atendimento-ao-aluno para consultar a planilha oficial.",
+    "palavras_chave": ["horario", "horário", "atendimento", "aluno", "professor", "professores", "planilha"],
+    "setor_responsavel": "Diretoria-Adjunta Educacional",
+    "fonte": "https://avr.ifsp.edu.br/horarios-de-atendimento-ao-aluno",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "estagio",
+    "tema": "estagio",
+    "perguntas_exemplo": [
+      "Com quem falo sobre estágio?",
+      "Como cadastrar estágio?",
+      "Sou aluno e quero fazer estágio obrigatório"
+    ],
+    "resposta": "Para assuntos de estágio, o site orienta escrever para estagios.avr@ifsp.edu.br. Se você é aluno de curso superior do IFSP com estágio curricular obrigatório, entre em contato com a coordenação do seu curso ou envie mensagem para estagios.avr@ifsp.edu.br informando nome completo, RA, curso e área em que pretende realizar o estágio.",
+    "palavras_chave": ["estagio", "estágio", "estagios", "estágios", "termo", "convenio", "convênio", "empresa", "supervisor", "orientador", "obrigatorio", "obrigatório"],
+    "setor_responsavel": "Setor de Estágios / Coordenações de Curso",
+    "fonte": "https://avr.ifsp.edu.br/estagios",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "wifi-alunos",
+    "tema": "wifi",
+    "perguntas_exemplo": [
+      "Como acessar o Wi-Fi dos alunos?",
+      "Como peço acesso à rede IFSP_ALUNOS?",
+      "Tem Wi-Fi para estudante?"
+    ],
+    "resposta": "A rede IFSP_ALUNOS é informada no site como disponível apenas para alunos dos cursos superiores do IFSP Avaré. Para solicitar acesso, o aluno deve preencher o formulário de requisição indicado na página https://avr.ifsp.edu.br/wifi-alunos, informando prontuário, curso, nome completo e senha desejada. Após confirmação do cadastro, deve acessar a rede IFSP_ALUNOS usando o prontuário e a senha registrada.",
+    "palavras_chave": ["wifi", "wi-fi", "internet", "ifsp_alunos", "eduroam", "senha", "prontuario", "prontuário"],
+    "setor_responsavel": "Coordenadoria de Tecnologia da Informação",
+    "fonte": "https://avr.ifsp.edu.br/wifi-alunos",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "restaurante-estudantil",
+    "tema": "restaurante estudantil",
+    "perguntas_exemplo": [
+      "Onde vejo o cardápio do restaurante?",
+      "Como consultar saldo do restaurante?",
+      "Como fazer recarga do restaurante?"
+    ],
+    "resposta": "A página do Restaurante Estudantil tem links para Recarga, Consultar Saldos e Cardápio da Semana. Acesse https://avr.ifsp.edu.br/restaurante-superior.",
+    "palavras_chave": ["restaurante", "refeitorio", "refeitório", "cardapio", "cardápio", "recarga", "saldo", "almoco", "almoço"],
+    "setor_responsavel": "Campus Avaré",
+    "fonte": "https://avr.ifsp.edu.br/restaurante-superior",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "napne",
+    "tema": "napne",
+    "perguntas_exemplo": [
+      "O que é o NAPNE?",
+      "Quem ajuda estudantes com necessidades educacionais específicas?",
+      "Qual o contato do NAPNE?"
+    ],
+    "resposta": "O NAPNE é o Núcleo de Apoio às Pessoas com Necessidades Educacionais Específicas. Sua função é apoiar a inclusão social e educacional, oferecendo atendimento individualizado, orientação e acompanhamento, articulação com docentes, acessibilidade, tecnologias assistivas e ações de educação anticapacitista. O e-mail informado na tabela de setores é coordnapne.avr@ifsp.edu.br.",
+    "palavras_chave": ["napne", "inclusao", "inclusão", "acessibilidade", "necessidades", "educacionais", "deficiencia", "deficiência", "apoio"],
+    "setor_responsavel": "NAPNE",
+    "fonte": "https://avr.ifsp.edu.br/napne-avr",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "assistencia-estudantil",
+    "tema": "assistencia estudantil",
+    "perguntas_exemplo": [
+      "Com quem falo sobre auxílio estudantil?",
+      "Como pedir auxílio permanência?",
+      "Qual o contato da assistência estudantil?"
+    ],
+    "resposta": "Para assuntos de apoio ao estudante, a tabela de setores indica a Coordenadoria Sociopedagógica (SSP), responsável Sandra Maria Glória da Silva, e-mail csp.avr@ifsp.edu.br. Para auxílio permanência e editais, consulte também as notícias oficiais do site do campus.",
+    "palavras_chave": ["assistencia", "assistência", "estudantil", "auxilio", "auxílio", "permanencia", "permanência", "bolsa", "sociopedagogica", "sociopedagógica", "csp", "ssp"],
+    "setor_responsavel": "Coordenadoria Sociopedagógica",
+    "fonte": "https://avr.ifsp.edu.br/fale-conosco-contato",
+    "status": "rascunho",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "biblioteca",
+    "tema": "biblioteca",
+    "perguntas_exemplo": [
+      "Qual o e-mail da biblioteca?",
+      "Como falar com a biblioteca?",
+      "Qual opção do telefone para biblioteca?"
+    ],
+    "resposta": "A Coordenadoria de Biblioteca (CBI) tem e-mail cbi.avr@ifsp.edu.br. No telefone geral do campus, (14) 3514-0094, a opção informada para Biblioteca é 6.",
+    "palavras_chave": ["biblioteca", "livro", "emprestimo", "empréstimo", "cbi"],
+    "setor_responsavel": "Coordenadoria de Biblioteca",
+    "fonte": "https://avr.ifsp.edu.br/fale-conosco-contato",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "pesquisa-inovacao",
+    "tema": "pesquisa e inovacao",
+    "perguntas_exemplo": [
+      "Com quem falo sobre pesquisa?",
+      "Qual o contato da pesquisa e inovação?",
+      "Quem coordena pesquisa no campus?"
+    ],
+    "resposta": "A Coordenadoria de Pesquisa e Inovação (CPI) está sob coordenação do Prof. Wellington Henrique Cassinelli. Contatos informados na página: cpi.avr@ifsp.edu.br e cassinelli.wellington@ifsp.edu.br.",
+    "palavras_chave": ["pesquisa", "inovacao", "inovação", "cpi", "iniciacao", "iniciação", "cientifica", "científica"],
+    "setor_responsavel": "Coordenadoria de Pesquisa e Inovação",
+    "fonte": "https://avr.ifsp.edu.br/pesquisa",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "cursos-superiores",
+    "tema": "cursos",
+    "perguntas_exemplo": [
+      "Quais cursos superiores existem no campus?",
+      "Tem Gastronomia no IFSP Avaré?",
+      "Quais graduações o campus oferece?"
+    ],
+    "resposta": "A página de cursos superiores lista: Engenharia de Biossistemas, Licenciatura em Ciências Biológicas, Licenciatura em Letras - Português e Espanhol, Tecnologia em Gastronomia, Tecnologia em Gestão do Agronegócio e Curso Técnico em Agronegócio. Consulte detalhes em https://avr.ifsp.edu.br/superiores.",
+    "palavras_chave": ["curso", "cursos", "superior", "superiores", "graduacao", "graduação", "gastronomia", "agronegocio", "agronegócio", "biossistemas", "biologicas", "biológicas", "letras"],
+    "setor_responsavel": "Diretoria-Adjunta Educacional / Coordenações de Curso",
+    "fonte": "https://avr.ifsp.edu.br/superiores",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "cursos-tecnicos-integrados",
+    "tema": "cursos",
+    "perguntas_exemplo": [
+      "Quais cursos técnicos integrados existem?",
+      "Tem Mecatrônica integrado?",
+      "Quais cursos integrados ao ensino médio?"
+    ],
+    "resposta": "A página de cursos técnicos integrados lista: Técnico em Agroindústria, Técnico em Lazer e Técnico em Mecatrônica. Consulte detalhes em https://avr.ifsp.edu.br/tecnicos-integrados.",
+    "palavras_chave": ["curso", "cursos", "tecnico", "técnico", "integrado", "integrados", "ensino", "medio", "médio", "agroindustria", "agroindústria", "lazer", "mecatronica", "mecatrônica"],
+    "setor_responsavel": "Diretoria-Adjunta Educacional / Coordenações de Curso",
+    "fonte": "https://avr.ifsp.edu.br/tecnicos-integrados",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "cursos-tecnicos-concomitantes",
+    "tema": "cursos",
+    "perguntas_exemplo": [
+      "Quais cursos técnicos concomitantes existem?",
+      "Tem técnico em mecânica?",
+      "Quais cursos técnicos não integrados?"
+    ],
+    "resposta": "A página de cursos técnicos concomitantes lista Técnico em Mecânica e também mostra Técnico em Eventos como extinto. Consulte detalhes em https://avr.ifsp.edu.br/tecnicos-concomitantes.",
+    "palavras_chave": ["curso", "cursos", "tecnico", "técnico", "concomitante", "concomitantes", "mecanica", "mecânica", "eventos"],
+    "setor_responsavel": "Diretoria-Adjunta Educacional / Coordenações de Curso",
+    "fonte": "https://avr.ifsp.edu.br/tecnicos-concomitantes",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "guia-estudante",
+    "tema": "guia do estudante",
+    "perguntas_exemplo": [
+      "Onde está o guia do estudante?",
+      "Existe guia para alunos?",
+      "Onde encontro orientações para estudantes?"
+    ],
+    "resposta": "O Guia do Estudante fica em https://avr.ifsp.edu.br/area-do-estudante. A página informa que o guia foi elaborado para auxiliar estudantes a esclarecer dúvidas ao longo do curso e reúne informações e orientações disponíveis no site institucional.",
+    "palavras_chave": ["guia", "estudante", "aluno", "orientacao", "orientação", "duvidas", "dúvidas"],
+    "setor_responsavel": "Diretoria-Adjunta Educacional",
+    "fonte": "https://avr.ifsp.edu.br/area-do-estudante",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "horarios-de-aulas",
+    "tema": "horarios de aulas",
+    "perguntas_exemplo": [
+      "Onde vejo os horários de aulas?",
+      "Onde está o horário do curso de Mecatrônica?",
+      "Onde consulto horário das turmas?"
+    ],
+    "resposta": "Os horários de aulas ficam na página https://avr.ifsp.edu.br/horarios-de-aulas. Durante a coleta do site também foram encontradas subpáginas de horários por curso, como Engenharia de Biossistemas, Agroindústria, Mecânica, Ciências Biológicas, Letras, Lazer, Agronegócio, Gastronomia e Mecatrônica.",
+    "palavras_chave": ["horario", "horário", "horarios", "horários", "aula", "aulas", "turma", "turmas", "mecatronica", "mecatrônica", "mecanica", "mecânica", "gastronomia", "agronegocio", "agronegócio", "lazer", "letras", "biologia", "biossistemas", "agroindustria", "agroindústria"],
+    "setor_responsavel": "Diretoria-Adjunta Educacional / Coordenações de Curso",
+    "fonte": "https://avr.ifsp.edu.br/horarios-de-aulas",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "processos-seletivos",
+    "tema": "processos seletivos",
+    "perguntas_exemplo": [
+      "Onde vejo processos seletivos?",
+      "Onde encontro edital de professor substituto?",
+      "Onde ficam os editais do campus?"
+    ],
+    "resposta": "Os processos seletivos e editais do campus ficam em https://avr.ifsp.edu.br/processos-seletivos. A coleta do site encontrou também páginas de editais específicos, incluindo professor substituto.",
+    "palavras_chave": ["processo", "processos", "seletivo", "seletivos", "edital", "editais", "professor", "substituto", "temporario", "temporário", "docente"],
+    "setor_responsavel": "Direção-Geral / Gestão de Pessoas",
+    "fonte": "https://avr.ifsp.edu.br/processos-seletivos",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "documentos-institucionais",
+    "tema": "documentos institucionais",
+    "perguntas_exemplo": [
+      "Onde encontro documentos institucionais?",
+      "Onde ficam as portarias do campus?",
+      "Onde vejo boletins de serviço?"
+    ],
+    "resposta": "Documentos institucionais ficam em https://avr.ifsp.edu.br/documentos-institucionais. A coleta encontrou subpáginas de portarias por ano, chamadas públicas e editais por área. Boletins de serviço ficam em https://avr.ifsp.edu.br/boletim.",
+    "palavras_chave": ["documento", "documentos", "institucional", "institucionais", "portaria", "portarias", "boletim", "boletins", "servico", "serviço", "chamada", "chamadas", "publica", "pública", "edital", "editais"],
+    "setor_responsavel": "Direção-Geral",
+    "fonte": "https://avr.ifsp.edu.br/documentos-institucionais",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "suap-moodle-email",
+    "tema": "sistemas academicos",
+    "perguntas_exemplo": [
+      "Onde acesso o SUAP?",
+      "Onde acesso o Moodle?",
+      "Onde entro no e-mail institucional?"
+    ],
+    "resposta": "O site oficial aponta estes acessos: SUAP https://suap.ifsp.edu.br/, Moodle http://avr.ifsp.edu.br/moodle/login/ e webmail https://webmail.ifsp.edu.br/. A página do estudante também tem link para orientações sobre e-mail de alunos.",
+    "palavras_chave": ["suap", "moodle", "email", "e-mail", "webmail", "sistema", "login", "alunos"],
+    "setor_responsavel": "Coordenadoria de Tecnologia da Informação / Ensino",
+    "fonte": "https://avr.ifsp.edu.br/",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "acesso-aluno-ifsp",
+    "tema": "sistemas academicos",
+    "perguntas_exemplo": [
+      "Qual é meu usuário do SUAP?",
+      "Como o aluno acessa o SUAP?",
+      "Esqueci minha senha do SUAP",
+      "Qual é a sigla do campus Avaré?"
+    ],
+    "resposta": "Segundo o Portal da TI do IFSP, antes de acessar SUAP, Aurora ou CAFe, o aluno usa como login a sigla do campus seguida do número do prontuário. Para o Campus Avaré, a sigla é AV. Exemplo: AV1234567. Se não possui usuário ou esqueceu a senha, use o serviço de Troca de Senha: https://suap.ifsp.edu.br/comum/solicitar_trocar_senha/.",
+    "palavras_chave": ["suap", "aurora", "cafe", "café", "login", "usuario", "usuário", "senha", "troca", "recuperar", "prontuario", "prontuário", "sigla", "av", "avare", "avaré"],
+    "setor_responsavel": "Tecnologia da Informação do IFSP",
+    "fonte": "https://ti.ifsp.edu.br/index.php/component/content/article?id=183",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "manuais-ti-ifsp",
+    "tema": "manuais e tutoriais",
+    "perguntas_exemplo": [
+      "Onde encontro os manuais da TI?",
+      "Tem manual do e-mail institucional?",
+      "Onde vejo tutorial do Drive IFSP?",
+      "Onde encontro tutoriais de sistemas?"
+    ],
+    "resposta": "Os manuais e tutoriais da TI do IFSP ficam em https://ti.ifsp.edu.br/manuais-gerais. A página reúne materiais de sistemas e infraestrutura, incluindo e-mail institucional, backup de e-mails, Drive IFSP, VPN, CAFe, acesso remoto, telefonia e outros serviços. Alguns links antigos de tutoriais de SUAP podem estar indisponíveis, então a página geral deve ser usada como referência inicial.",
+    "palavras_chave": ["manual", "manuais", "tutorial", "tutoriais", "ti", "email", "e-mail", "drive", "ifsp", "cafe", "café", "vpn", "acesso", "remoto", "sistemas"],
+    "setor_responsavel": "Tecnologia da Informação do IFSP",
+    "fonte": "https://ti.ifsp.edu.br/manuais-gerais",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "manual-email-drive-ifsp",
+    "tema": "manuais e tutoriais",
+    "perguntas_exemplo": [
+      "Onde está o manual do e-mail institucional?",
+      "Como faço backup do webmail?",
+      "Onde está o manual do Drive IFSP?"
+    ],
+    "resposta": "Na página de manuais da TI há links para o manual de e-mail institucional, backup de e-mails e Drive IFSP. Manual de e-mail: https://drive.ifsp.edu.br/s/REjP7eDSGok3ZZH. Backup do Webmail-IFSP: https://drive.ifsp.edu.br/s/yDZIaElL0OtIuaq. Manual do Drive IFSP: https://drive.ifsp.edu.br/s/175b6c7c09ef7699aeadf0caf81bc6e3.",
+    "palavras_chave": ["email", "e-mail", "institucional", "webmail", "backup", "drive", "manual", "tutorial", "nuvem"],
+    "setor_responsavel": "Tecnologia da Informação do IFSP",
+    "fonte": "https://ti.ifsp.edu.br/manuais-gerais",
+    "status": "publicado",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "conflito-responsavel-cra",
+    "tema": "qualidade dos dados",
+    "perguntas_exemplo": [
+      "Quem é o responsável pela CRA?",
+      "Quem coordena registros acadêmicos?"
+    ],
+    "resposta": "Há uma divergência entre páginas oficiais consultadas em 24/05/2026: a página Fale Conosco mostra Mário Sanches Delmanto como responsável pela CRA, enquanto a página Organograma mostra Antonio Feliciano de Godoy Junior. Até validação humana, use como contato seguro o e-mail cra.avr@ifsp.edu.br.",
+    "palavras_chave": ["cra", "responsavel", "responsável", "coordenador", "coordenadora", "registros", "academicos", "acadêmicos", "conflito"],
+    "setor_responsavel": "Equipe do projeto / CRA",
+    "fonte": "https://avr.ifsp.edu.br/fale-conosco-contato e https://avr.ifsp.edu.br/organograma",
+    "status": "rascunho",
+    "revisado_em": "2026-05-24"
+  },
+  {
+    "id": "nao-encontrado",
+    "tema": "fallback",
+    "perguntas_exemplo": [],
+    "resposta": "Não encontrei uma resposta confiável para essa pergunta na minha base atual. Procure a secretaria ou informe essa dúvida para que ela seja adicionada ao sistema.",
+    "palavras_chave": [],
+    "setor_responsavel": "Equipe do projeto",
+    "fonte": "Resposta padrão",
+    "status": "publicado",
+    "revisado_em": null
+  }
+]
