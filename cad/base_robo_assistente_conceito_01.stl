@@ -1,0 +1,597 @@
+solid base_robo_assistente_ifsp
+  // main_deck_420x320x8
+  facet normal 0 0 0
+    outer loop
+      vertex -210.000 -160.000 8.000
+      vertex 210.000 -160.000 8.000
+      vertex 210.000 160.000 8.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -210.000 -160.000 8.000
+      vertex 210.000 160.000 8.000
+      vertex -210.000 160.000 8.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -210.000 -160.000 0.000
+      vertex -210.000 160.000 0.000
+      vertex 210.000 160.000 0.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -210.000 -160.000 0.000
+      vertex 210.000 160.000 0.000
+      vertex 210.000 -160.000 0.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -210.000 -160.000 0.000
+      vertex 210.000 -160.000 0.000
+      vertex 210.000 -160.000 8.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -210.000 -160.000 0.000
+      vertex 210.000 -160.000 8.000
+      vertex -210.000 -160.000 8.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 210.000 -160.000 0.000
+      vertex 210.000 160.000 0.000
+      vertex 210.000 160.000 8.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 210.000 -160.000 0.000
+      vertex 210.000 160.000 8.000
+      vertex 210.000 -160.000 8.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 210.000 160.000 0.000
+      vertex -210.000 160.000 0.000
+      vertex -210.000 160.000 8.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 210.000 160.000 0.000
+      vertex -210.000 160.000 8.000
+      vertex 210.000 160.000 8.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -210.000 160.000 0.000
+      vertex -210.000 -160.000 0.000
+      vertex -210.000 -160.000 8.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -210.000 160.000 0.000
+      vertex -210.000 -160.000 8.000
+      vertex -210.000 160.000 8.000
+    endloop
+  endfacet
+  // left_wheel_rail
+  facet normal 0 0 0
+    outer loop
+      vertex -187.000 -125.000 28.000
+      vertex -153.000 -125.000 28.000
+      vertex -153.000 125.000 28.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -187.000 -125.000 28.000
+      vertex -153.000 125.000 28.000
+      vertex -187.000 125.000 28.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -187.000 -125.000 4.000
+      vertex -187.000 125.000 4.000
+      vertex -153.000 125.000 4.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -187.000 -125.000 4.000
+      vertex -153.000 125.000 4.000
+      vertex -153.000 -125.000 4.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -187.000 -125.000 4.000
+      vertex -153.000 -125.000 4.000
+      vertex -153.000 -125.000 28.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -187.000 -125.000 4.000
+      vertex -153.000 -125.000 28.000
+      vertex -187.000 -125.000 28.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -153.000 -125.000 4.000
+      vertex -153.000 125.000 4.000
+      vertex -153.000 125.000 28.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -153.000 -125.000 4.000
+      vertex -153.000 125.000 28.000
+      vertex -153.000 -125.000 28.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -153.000 125.000 4.000
+      vertex -187.000 125.000 4.000
+      vertex -187.000 125.000 28.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -153.000 125.000 4.000
+      vertex -187.000 125.000 28.000
+      vertex -153.000 125.000 28.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -187.000 125.000 4.000
+      vertex -187.000 -125.000 4.000
+      vertex -187.000 -125.000 28.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -187.000 125.000 4.000
+      vertex -187.000 -125.000 28.000
+      vertex -187.000 125.000 28.000
+    endloop
+  endfacet
+  // right_wheel_rail
+  facet normal 0 0 0
+    outer loop
+      vertex 153.000 -125.000 28.000
+      vertex 187.000 -125.000 28.000
+      vertex 187.000 125.000 28.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 153.000 -125.000 28.000
+      vertex 187.000 125.000 28.000
+      vertex 153.000 125.000 28.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 153.000 -125.000 4.000
+      vertex 153.000 125.000 4.000
+      vertex 187.000 125.000 4.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 153.000 -125.000 4.000
+      vertex 187.000 125.000 4.000
+      vertex 187.000 -125.000 4.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 153.000 -125.000 4.000
+      vertex 187.000 -125.000 4.000
+      vertex 187.000 -125.000 28.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 153.000 -125.000 4.000
+      vertex 187.000 -125.000 28.000
+      vertex 153.000 -125.000 28.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 187.000 -125.000 4.000
+      vertex 187.000 125.000 4.000
+      vertex 187.000 125.000 28.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 187.000 -125.000 4.000
+      vertex 187.000 125.000 28.000
+      vertex 187.000 -125.000 28.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 187.000 125.000 4.000
+      vertex 153.000 125.000 4.000
+      vertex 153.000 125.000 28.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 187.000 125.000 4.000
+      vertex 153.000 125.000 28.000
+      vertex 187.000 125.000 28.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 153.000 125.000 4.000
+      vertex 153.000 -125.000 4.000
+      vertex 153.000 -125.000 28.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 153.000 125.000 4.000
+      vertex 153.000 -125.000 28.000
+      vertex 153.000 125.000 28.000
+    endloop
+  endfacet
+  // front_caster_pad
+  facet normal 0 0 0
+    outer loop
+      vertex -55.000 113.000 24.000
+      vertex 55.000 113.000 24.000
+      vertex 55.000 157.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -55.000 113.000 24.000
+      vertex 55.000 157.000 24.000
+      vertex -55.000 157.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -55.000 113.000 4.000
+      vertex -55.000 157.000 4.000
+      vertex 55.000 157.000 4.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -55.000 113.000 4.000
+      vertex 55.000 157.000 4.000
+      vertex 55.000 113.000 4.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -55.000 113.000 4.000
+      vertex 55.000 113.000 4.000
+      vertex 55.000 113.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -55.000 113.000 4.000
+      vertex 55.000 113.000 24.000
+      vertex -55.000 113.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 55.000 113.000 4.000
+      vertex 55.000 157.000 4.000
+      vertex 55.000 157.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 55.000 113.000 4.000
+      vertex 55.000 157.000 24.000
+      vertex 55.000 113.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 55.000 157.000 4.000
+      vertex -55.000 157.000 4.000
+      vertex -55.000 157.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 55.000 157.000 4.000
+      vertex -55.000 157.000 24.000
+      vertex 55.000 157.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -55.000 157.000 4.000
+      vertex -55.000 113.000 4.000
+      vertex -55.000 113.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -55.000 157.000 4.000
+      vertex -55.000 113.000 24.000
+      vertex -55.000 157.000 24.000
+    endloop
+  endfacet
+  // rear_caster_pad
+  facet normal 0 0 0
+    outer loop
+      vertex -55.000 -157.000 24.000
+      vertex 55.000 -157.000 24.000
+      vertex 55.000 -113.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -55.000 -157.000 24.000
+      vertex 55.000 -113.000 24.000
+      vertex -55.000 -113.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -55.000 -157.000 4.000
+      vertex -55.000 -113.000 4.000
+      vertex 55.000 -113.000 4.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -55.000 -157.000 4.000
+      vertex 55.000 -113.000 4.000
+      vertex 55.000 -157.000 4.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -55.000 -157.000 4.000
+      vertex 55.000 -157.000 4.000
+      vertex 55.000 -157.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -55.000 -157.000 4.000
+      vertex 55.000 -157.000 24.000
+      vertex -55.000 -157.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 55.000 -157.000 4.000
+      vertex 55.000 -113.000 4.000
+      vertex 55.000 -113.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 55.000 -157.000 4.000
+      vertex 55.000 -113.000 24.000
+      vertex 55.000 -157.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 55.000 -113.000 4.000
+      vertex -55.000 -113.000 4.000
+      vertex -55.000 -113.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 55.000 -113.000 4.000
+      vertex -55.000 -113.000 24.000
+      vertex 55.000 -113.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -55.000 -113.000 4.000
+      vertex -55.000 -157.000 4.000
+      vertex -55.000 -157.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -55.000 -113.000 4.000
+      vertex -55.000 -157.000 24.000
+      vertex -55.000 -113.000 24.000
+    endloop
+  endfacet
+  // electronics_floor
+  facet normal 0 0 0
+    outer loop
+      vertex -90.000 -75.000 24.000
+      vertex 90.000 -75.000 24.000
+      vertex 90.000 75.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -90.000 -75.000 24.000
+      vertex 90.000 75.000 24.000
+      vertex -90.000 75.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -90.000 -75.000 8.000
+      vertex -90.000 75.000 8.000
+      vertex 90.000 75.000 8.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -90.000 -75.000 8.000
+      vertex 90.000 75.000 8.000
+      vertex 90.000 -75.000 8.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -90.000 -75.000 8.000
+      vertex 90.000 -75.000 8.000
+      vertex 90.000 -75.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -90.000 -75.000 8.000
+      vertex 90.000 -75.000 24.000
+      vertex -90.000 -75.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 90.000 -75.000 8.000
+      vertex 90.000 75.000 8.000
+      vertex 90.000 75.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 90.000 -75.000 8.000
+      vertex 90.000 75.000 24.000
+      vertex 90.000 -75.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 90.000 75.000 8.000
+      vertex -90.000 75.000 8.000
+      vertex -90.000 75.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 90.000 75.000 8.000
+      vertex -90.000 75.000 24.000
+      vertex 90.000 75.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -90.000 75.000 8.000
+      vertex -90.000 -75.000 8.000
+      vertex -90.000 -75.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -90.000 75.000 8.000
+      vertex -90.000 -75.000 24.000
+      vertex -90.000 75.000 24.000
+    endloop
+  endfacet
+  // totem_mount_plinth
+  facet normal 0 0 0
+    outer loop
+      vertex -60.000 -50.000 40.000
+      vertex 60.000 -50.000 40.000
+      vertex 60.000 50.000 40.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -60.000 -50.000 40.000
+      vertex 60.000 50.000 40.000
+      vertex -60.000 50.000 40.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -60.000 -50.000 24.000
+      vertex -60.000 50.000 24.000
+      vertex 60.000 50.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -60.000 -50.000 24.000
+      vertex 60.000 50.000 24.000
+      vertex 60.000 -50.000 24.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -60.000 -50.000 24.000
+      vertex 60.000 -50.000 24.000
+      vertex 60.000 -50.000 40.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -60.000 -50.000 24.000
+      vertex 60.000 -50.000 40.000
+      vertex -60.000 -50.000 40.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 60.000 -50.000 24.000
+      vertex 60.000 50.000 24.000
+      vertex 60.000 50.000 40.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 60.000 -50.000 24.000
+      vertex 60.000 50.000 40.000
+      vertex 60.000 -50.000 40.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 60.000 50.000 24.000
+      vertex -60.000 50.000 24.000
+      vertex -60.000 50.000 40.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 60.000 50.000 24.000
+      vertex -60.000 50.000 40.000
+      vertex 60.000 50.000 40.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -60.000 50.000 24.000
+      vertex -60.000 -50.000 24.000
+      vertex -60.000 -50.000 40.000
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex -60.000 50.000 24.000
+      vertex -60.000 -50.000 40.000
+      vertex -60.000 50.000 40.000
+    endloop
+  endfacet
+endsolid base_robo_assistente_ifsp
