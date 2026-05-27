@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="780" viewBox="0 0 1000 780">
+  <style>
+    .title { font: 700 24px Arial; fill: #17202a; }
+    .note { font: 14px Arial; fill: #45515f; }
+    .dim { font: 13px Arial; fill: #17202a; }
+    .label { font: 700 12px Arial; fill: #17202a; text-anchor: middle; dominant-baseline: middle; }
+    .hole-label { font: 11px Arial; fill: #17202a; }
+    .deck { fill: #eef6ff; stroke: #1d4f7a; stroke-width: 2; }
+    .rail { fill: #dff3e6; stroke: #1d7a45; stroke-width: 1.5; }
+    .zone { fill: rgba(255, 224, 166, 0.55); stroke: #a56a00; stroke-width: 1.5; stroke-dasharray: 7 5; }
+    .totem { fill: rgba(198, 216, 255, 0.65); stroke: #4a65ad; stroke-width: 1.5; }
+    .hole { fill: white; stroke: #111; stroke-width: 1.3; }
+    .axis { stroke: #6b7785; stroke-width: 1; stroke-dasharray: 5 5; }
+    .dimline { stroke: #17202a; stroke-width: 1; marker-start: url(#arrow); marker-end: url(#arrow); }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#17202a" />
+    </marker>
+  </defs>
+
+  <text class="title" x="60" y="50">Base Robo Assistente IFSP - conceito 01</text>
+  <text class="note" x="60" y="78">Vista superior em milimetros. Conceito inicial para locomocao em areas livres internas.</text>
+
+  <rect class="deck" x="290.0" y="230.0" width="420.0" height="320.0" />
+  <rect class="rail" x="313.0" y="265.0" width="34.0" height="250.0" />
+<text class="label" x="330.0" y="390.0">motor</text>
+  <rect class="rail" x="653.0" y="265.0" width="34.0" height="250.0" />
+<text class="label" x="670.0" y="390.0">motor</text>
+  <rect class="rail" x="445.0" y="233.0" width="110.0" height="44.0" />
+<text class="label" x="500.0" y="255.0">rodizio frontal</text>
+  <rect class="rail" x="445.0" y="503.0" width="110.0" height="44.0" />
+<text class="label" x="500.0" y="525.0">rodizio traseiro</text>
+  <rect class="zone" x="410.0" y="315.0" width="180.0" height="150.0" />
+<text class="label" x="500.0" y="332.0">bateria / eletronica</text>
+  <rect class="totem" x="440.0" y="340.0" width="120.0" height="100.0" />
+<text class="label" x="500.0" y="390.0">fixacao torre</text>
+  <circle class="hole" cx="315.0" cy="505.0" r="4.0" /><circle class="hole" cx="315.0" cy="275.0" r="4.0" /><circle class="hole" cx="685.0" cy="505.0" r="4.0" /><circle class="hole" cx="685.0" cy="275.0" r="4.0" /><circle class="hole" cx="465.0" cy="525.0" r="4.0" /><circle class="hole" cx="465.0" cy="255.0" r="4.0" /><circle class="hole" cx="535.0" cy="525.0" r="4.0" /><circle class="hole" cx="535.0" cy="255.0" r="4.0" /><circle class="hole" cx="455.0" cy="425.0" r="3.0" /><circle class="hole" cx="455.0" cy="355.0" r="3.0" /><circle class="hole" cx="545.0" cy="425.0" r="3.0" /><circle class="hole" cx="545.0" cy="355.0" r="3.0" />
+
+  <line class="axis" x1="270" y1="390" x2="730" y2="390" />
+  <line class="axis" x1="500" y1="570" x2="500" y2="210" />
+
+  <line class="dimline" x1="290.0" y1="595" x2="710.0" y2="595" />
+  <text class="dim" x="500" y="615" text-anchor="middle">420 mm</text>
+  <line class="dimline" x1="745" y1="550.0" x2="745" y2="230.0" />
+  <text class="dim" x="768" y="390" transform="rotate(-90 768 390)" text-anchor="middle">320 mm</text>
+
+  <text class="note" x="60" y="145">Legenda</text>
+  <rect class="rail" x="60" y="165" width="26" height="16" /><text class="note" x="96" y="178">suporte de motor ou rodizio</text>
+  <rect class="zone" x="60" y="195" width="26" height="16" /><text class="note" x="96" y="208">area reservada para bateria e eletronica</text>
+  <rect class="totem" x="60" y="225" width="26" height="16" /><text class="note" x="96" y="238">base de fixacao da torre/tela</text>
+  <circle class="hole" cx="73" cy="263" r="4" /><text class="note" x="96" y="268">furos M4/M3 de referencia</text>
+
+  <text class="note" x="60" y="720">Notas: furos M4 para trilhos/rodizios; furos M3 para placa/eletronica. Ajustar conforme motor, roda, bateria e altura final do totem.</text>
+</svg>
